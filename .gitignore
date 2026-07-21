@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+
+# Kisisel veriler git'e gitmesin
+cv/*.pdf
+data/*.xlsx
+drafts/
+sent/
